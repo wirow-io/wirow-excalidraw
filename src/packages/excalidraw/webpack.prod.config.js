@@ -16,7 +16,7 @@ module.exports = {
     library: "ExcalidrawLib",
     libraryTarget: "umd",
     filename: "[name].js",
-    chunkFilename: "excalidraw-assets/[name]-[contenthash].js",
+    chunkFilename: "excalidraw-assets/[name].js",
     assetModuleFilename: "excalidraw-assets/[name][ext]",
     publicPath: "",
   },
